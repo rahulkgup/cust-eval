@@ -1,0 +1,2 @@
+[console_scripts]
+cust-eval = cust_eval.cli:main
